@@ -1,1 +1,2 @@
-# software-engineering-lab-5-test
+# About
+This is my cli application with unit-tests.
